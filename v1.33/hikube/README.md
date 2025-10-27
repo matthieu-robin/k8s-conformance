@@ -1,6 +1,6 @@
 # Start a Kubernetes Cluster on Hikube
 
-To start a Kubernetes cluster on **Hikube**, simply define your cluster configuration in a YAML manifest, apply it with `kubectl`, and retrieve the generated kubeconfig to access your environment — Hikube automates control plane provisioning, node scaling, and network setup across **three Swiss datacenters**.
+To start a Kubernetes cluster on [**Hikube**](https://hikube.cloud), simply define your cluster configuration in a YAML manifest, apply it with `kubectl`, and retrieve the generated kubeconfig to access your environment — Hikube automates control plane provisioning, node scaling, and network setup across **three Swiss datacenters**.
 
 ## Example with a GPU connected
 
